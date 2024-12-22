@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1734756575 source:c:\users\unique\desktop\nm\lab_3and4\gausselimination.c
+	<stdio.h>
+
+1734758469 source:c:\users\unique\desktop\nm\lab_3and4\main.c
+
+1734766146 source:c:\users\unique\desktop\nm\lab_3and4\navie gauss elimination method.c
+	<stdio.h>
+	<math.h>
+
+1734764147 source:c:\users\unique\desktop\nm\lab_3and4\gausshordan.c
+	<stdio.h>
+	<conio.h>
+	<math.h>
+

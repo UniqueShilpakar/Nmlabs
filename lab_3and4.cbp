@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lab_3and4" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lab_3and4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lab_3and4" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Derivatives Using Newton&apos;s Forward.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="backward difference.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="eulers.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gauss seidal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gausshordan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="jacobi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="lab_3and4.cbp" />
+		<Unit filename="navie gauss elimination method.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="rungekutta.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simson1by3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="simson3by8.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="trapezoidal.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
